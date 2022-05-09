@@ -14,4 +14,4 @@ Think of Swift, Think of Us.
 * [Twitter](https://twitter.com/swiftanytime)
 * [LinkedIn](https://www.linkedin.com/company/swift-anytime)
 
-Join us on our [Discord](discord.gg/MJcJsz57Rm) Server
+Join us on our [Discord](https://discord.com/invite/MJcJsz57Rm) Server
