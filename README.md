@@ -3,6 +3,7 @@
 ### Code of the Day Snippets
 
 1.  [`.searchable` modifier](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/Searchable.swift)
+2.  [`.refreshable` modifier](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/Refreshable.swift)
 
 ## About Swift Anytime
 Place where iOS enthusiasts visit anytime they think about iOS and it's wonders.
