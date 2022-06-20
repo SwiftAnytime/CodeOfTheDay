@@ -5,6 +5,7 @@
 1.  [`.searchable` modifier](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/Searchable.swift)
 2.  [`.refreshable` modifier](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/Refreshable.swift)
 3.  [`AsyncImage`](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/AsyncImage.swift)
+4.  [`presentationDetent` modifier](https://github.com/SwiftAnytime/CodeOfTheDay/blob/main/SheetDetent.swift)
 
 ## About Swift Anytime
 Place where iOS enthusiasts visit anytime they think about iOS and it's wonders.
